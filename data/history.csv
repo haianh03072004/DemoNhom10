@@ -1,0 +1,7 @@
+model,age,bmi,children,smoker,sex,region,predicted_charge,confidence_interval
+ridge,18,30,4,yes,male,southeast,27441.7536880149,"($16077.09, $38806.42)"
+stacking,18,32,8,yes,male,southeast,42856.838,"($27480.67, $58233.00)"
+ridge,18,30,4,yes,male,southwest,27285.89997372972,"($15921.23, $38650.57)"
+lr,18,30,4,yes,male,southwest,27330.97315713308,"($15970.26, $38691.69)"
+stacking,18,30,4,yes,male,southwest,21472.4788,"($6096.31, $36848.64)"
+ridge,18,30,4,yes,male,southeast,27441.7536880149,"($16077.09, $38806.42)"
